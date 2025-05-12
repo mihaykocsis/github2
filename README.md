@@ -1,1 +1,1 @@
-# gitinit
+# git init
